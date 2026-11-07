@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bautizo Amalia//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bautizo-amalia-20261121@bautizo
+DTSTAMP:20261107T120000Z
+DTSTART:20261121T120000Z
+DTEND:20261121T180000Z
+SUMMARY:Bautizo de Amalia
+LOCATION:Parroquia de la Inmaculada Concepción\, Calle Manuel Alonso s/n\, 28048 El Pardo\, Madrid
+DESCRIPTION:13:00 h Ceremonia en la Parroquia de la Inmaculada Concepción (El Pardo). A continuación\, comida en el Restaurante San Francisco (Pista del Cristo de El Pardo\, 3).
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mañana es el bautizo de Amalia
+END:VALARM
+END:VEVENT
+END:VCALENDAR
